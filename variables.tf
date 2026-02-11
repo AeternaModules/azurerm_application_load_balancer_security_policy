@@ -1,6 +1,6 @@
-variable "application_load_balancer_security_policys" {
+variable "application_load_balancer_security_policies" {
   description = <<EOT
-Map of application_load_balancer_security_policys, attributes below
+Map of application_load_balancer_security_policies, attributes below
 Required:
     - application_load_balancer_id
     - location
